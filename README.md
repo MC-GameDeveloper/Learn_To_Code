@@ -8,4 +8,5 @@
    - Or any one that you prefer. I  will be using Visual Code.  
 2. Download the files on this repository. [Click Here](https://github.com/mtc9417/Learn_To_Code/archive/master.zip)
 or click on the green button above and dowload the zip file. Once downloaded make sure that you know where the
-"Class_File" folder is. We will be working in that.
+"Class_Files" folder is. We will be working in that.  
+3. Open the files in the "Class_Files" folder with your text editor.
