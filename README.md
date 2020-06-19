@@ -1,6 +1,6 @@
 # Learn_To_Code
- Base Files for Learn To Code Playcrafting course
-##What to do before the class:
+ Base Files for Learn To Code Playcrafting course  
+## What to do before the class:
 1. Download a Text Editor  
    - [Visual Code](https://code.visualstudio.com/)  
    - [Sublime](https://www.sublimetext.com/)  
