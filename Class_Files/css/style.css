@@ -1,35 +1,37 @@
-html, body {
-    margin: 0;
-    padding: 0;
-    background-color: dimgrey;
-    display: flex;
+html, body{
+    margin:0;
+    padding:0;
+    background-color: dimgray;
+    display:flex;
     justify-content: center;
     align-items: center;
     width: 100vw;
     height: 100vh;
 }
+
 .container{
-    width: 800px;
+    width:800px;
     max-width: 80%;
     border-radius: 5px;
     background-color: white;
-    padding: 30px;
+    padding:30px;
 }
+
 .btn-grid{
     display: grid;
-    grid-template-columns: repeat(2,auto);
-    gap:2px;
-    margin-top: 20px;
+    grid-template-columns: repeat(2, auto);
+    gap: 2px;
+    margin-top: 15px;
 }
+
 .btn{
-    background-color: rgb(38, 147, 255);
-    padding:10px 10px;
-    color: white;
-    outline: none;
+    background-color: rgb(38,147,255);
+    padding: 10px;
+    color:white;
     border-radius: 5px;
+    outline:none;
 }
 .btn:hover{
-    background-color: rgb(23, 99, 175);
+    background-color: rgb(23,99,175);
+    cursor: pointer;
 }
-
-
